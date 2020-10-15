@@ -1,0 +1,24 @@
+package Assignment5Loops;
+
+public class Assignment5Q3 {
+
+	public static void main(String[] args) {
+		
+//		Question-3:
+//
+//		Write a program that displays the number of even numbers between 5 and 50 (included)
+		
+		for(int i=5;i<=50;i++) {
+			if(i%2==0) {
+				System.out.println(i);
+			}
+			
+		}
+		
+		
+		
+		
+		
+	}
+
+}
